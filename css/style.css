@@ -133,6 +133,7 @@ sup {
   top: -.5em; }
 
 a {
+  float: right;
   color: #007bff;
   text-decoration: none;
   background-color: transparent; }
